@@ -1,7 +1,7 @@
 
 ## 😃 Hi, I’m Malyshew Andrew
 - 💻 iOS Developer
-- 🌍 Currently reside in Minsk, Belarus
+- 🌍 Currently in Minsk, Belarus
 
 ## 🛠 Skills
 - MVVM
