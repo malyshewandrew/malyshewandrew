@@ -4,7 +4,11 @@
 - 🌍 Currently in Minsk, Belarus
 
 ## 🛠 Skills
-- MVVM, MVP, CoreData, Realm, Lottie, AlerKit, SwiftyStoreKit
+- UIKit
+- MVC, MVP, VIP, MVVM
+- Alamofire
+- CoreData, Realm
+- Lottie, AlerKit, SwiftyStoreKit
 - SOLID, OOP, GIT FLOW
 ## 🔗 Links
 
