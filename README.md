@@ -2,6 +2,7 @@
 ## 😃 Hi, I’m Malyshew Andrew
 - 💻 iOS Developer
 - 🌍 Currently in Minsk, Belarus
+- 🗣️ English, Spanish, Russian
 
 ## 🛠 Skills
 - UIKit
