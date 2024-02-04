@@ -10,7 +10,7 @@
 - Alamofire
 - CoreData, Realm
 - Lottie, AlerKit, SwiftyStoreKit
-- SOLID, OOP, Git Flow
+- SOLID, OOP, GCD, Git Flow
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malyshewandrew/)
