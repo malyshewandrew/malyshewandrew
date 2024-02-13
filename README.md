@@ -9,7 +9,7 @@
 - MVC, MVP, VIP, MVVM
 - Alamofire
 - CoreData, Realm
-- Lottie, AlerKit, SwiftyStoreKit, SnapKit
+- Lottie, AlerKit, SwiftyStoreKit, SnapKit, WeatherKit, MapKit
 - SOLID, OOP, GCD, Git Flow
 
 ## 📲 Applications in App Store:
