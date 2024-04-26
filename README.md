@@ -5,12 +5,18 @@
 - 🗣️ English, Spanish, Russian
 
 ## 🛠 Skills
-- UIKit
-- MVC, MVP, VIP, MVVM
-- Alamofire
-- CoreData, Realm
-- Lottie, AlerKit, SwiftyStoreKit, SnapKit, WeatherKit, MapKit
-- SOLID, OOP, GCD, Git Flow
+- Swift, Xcode, Git, Fork, Developer, TestFlight, Tests
+- UIKit, SwiftUI, CocoaPods, SPM
+- OOP, SOLID, Clean Swift
+- MVC, MVP, VIP, MVVM, VIPER
+- CoreData, UserDefaults, Realm, Firebase
+- Auto Layout, Snapkit, Storyboard, Xib
+- API, JSON, URLSession, Alamofire
+- Multithreading, Threads, GCD
+- Combine, Lottie, Adapty, WeatherKit, AlertKit, MapKit
+- Apple Developer Program, App Store Connect
+- App Store Small Bussiness Program
+- Figma, Photoshop, Lightroom, PremierePro, FinalCut
 
 ## 📲 Applications in App Store:
 ![Logo](https://thumb.tildacdn.pub/tild3632-3832-4837-b939-336232346466/-/format/webp/APP_ICON_3.png) ![Logo](https://optim.tildacdn.pub/tild3038-3537-4034-b862-363734663232/-/format/webp/10.png) 
