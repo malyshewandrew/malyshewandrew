@@ -22,6 +22,7 @@
 https://apps.apple.com/ru/developer/andrei-malyshau/id1729094189
 
 - SKYDIVE BOOK: https://apps.apple.com/by/app/skydive-book/id6478469415
+- PULSE FM: https://apps.apple.com/by/app/pulsefm-belarus/id6743941514
 - GALACTRIX: https://apps.apple.com/by/app/galactrix/id6483000958
 - MOVIE NOTES: https://apps.apple.com/app/movienotes/id6477357057
 - BIRTHDAY NOTES: https://apps.apple.com/app/birthdaydate/id6477539640
